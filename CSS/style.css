@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+img{width:150px; height:100px;} 
+ 
+header{background-color: rgb(253, 255, 157);padding: 30px;} 
+ 
+body{margin-top:0px; margin-left:0px; margin-right:0px;} 
+ 
+nav a{ color: rgb(255, 238, 1); text-align: center; 
+font-size:30px; text-decoration: none; 
+font-weight: 700;text-shadow: 30px 0px 8px rgb(0, 0, 0) ;
+} 
+ 
+nav{width: 350px;
+display: flex;
+justify-content: space-between;
+margin: 0 auto;} 
+ 
+h1{font-family: cursive; text-align: center; font-size:75px; 
+position: absolute;top:30px; left: 300px; color: orange;
+text-shadow:30px 5px 8px grey;} 
+ 
+.zagolov::before{content: url();}
+
+footer{background-color: rgb(253, 255, 157);padding: 30px;} 
+ 
+
+ 
+h2{text-align: center;font-size:35px; 
+font-family: initial; } 
+ 
+.text{font-size:20px;font-family: "Playfair Display", serif;
+text-align: center;} 
+ 
+.cart{float:right; width: 60px; height: 70px;} 
+ 
+.tex::before{content: url(https://i.postimg.cc/vmpBDhB9/free-icon-font-shopping-cart-3916598.png); 
+font-size:100px;} 
+.reyest::before{content: url(https://i.postimg.cc/4yX9wGcs/free-icon-font-user-3917688.png); 
+    font-size:100px;} 
+
+.like::before{content: url(https://i.postimg.cc/nV5xv2fw/free-icon-font-heart-3916579.png); 
+    font-size:100px;}
+
+
+ 
+.nav1{display: flex;
+    margin: 0 auto;
+    width: 900px;
+justify-content: space-between;}
+
+.cartin{width: 35px;height:35px;}
+footer p{font-size:35px; display: inline;}
+
+.interf{ margin-left:200px; width: 50px;height: 50px; 
+padding-bottom: 35px;}
+
+
+
+
+.cotyko{width:1000px; height:500px; 
+display: flex;justify-content: space-around;margin: 0 auto;}
+
+.poroda{width: 400px; height: 400px;
+    display: flex;justify-content: space-around;margin: 0 auto; }
+
+.cot{width:1000px; height:500px; 
+    display: flex;justify-content: space-around;margin: 0 auto;}
+
+.poroda{width: 400px; height: 400px;
+        display: flex;justify-content: space-around;margin: 0 auto; }
+
+.citten{width:1000px; height:500px; 
+    display: flex;justify-content: space-around;margin: 0 auto;}
+
+.poroda{width: 400px; height: 400px;
+        display: flex;justify-content: space-around;margin: 0 auto; }
+
+
+.cotyko2{text-align: center; font-size: 35px;}    
+
+.cot2{text-align: center; font-size: 35px;} 
+
+.citten2{text-align: center; font-size: 35px;} 
